@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SelectorButton">
+        <attr name="state_normal" format="reference"/>
+        <attr name="state_pressed" format="reference"/>
+        <attr name="state_disabled" format="reference"/>
+    </declare-styleable>
+</resources>
