@@ -7,8 +7,7 @@
 /build
 /captures
 .externalNativeBuild
-/gradle.properties
-/gradlew.bat
-/gradlew
-/gradle/
 /.idea/
+app/libs/
+selectorbuttonlib/libs/
+selectorbuttonlib/src/main/res/drawable/
